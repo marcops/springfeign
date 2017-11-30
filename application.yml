@@ -1,0 +1,3 @@
+post-client:
+  ribbon:
+    listOfServers: http://jsonplaceholder.typicode.com/
